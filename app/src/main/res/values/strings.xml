@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CHITRA</string>
+    <string name="app_subtitle">2D Anime Rigging &amp; Animation Studio</string>
+    <string name="mode_rig">Rig Bones</string>
+    <string name="mode_animate">Animate</string>
+    <string name="mode_mesh">Mesh Warp</string>
+    <string name="mode_layers">Layers</string>
+    <string name="mode_expressions">Facial Morphs</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="add_keyframe">Add Keyframe</string>
+    <string name="ik_mode">IK Mode</string>
+    <string name="fk_mode">FK Mode</string>
+    <string name="onion_skin">Onion Skin</string>
+    <string name="export_project">Export Project</string>
+    <string name="import_project">Import Project</string>
+    <string name="render_frame">Render PNG</string>
+    <string name="render_animation">Export Video</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "CHITRA",
+  "description": "Native 2D anime character rigging, IK, mesh deformation, and animation app",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
